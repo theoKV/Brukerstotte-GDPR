@@ -1,1 +1,19 @@
 /*CSS for index.html*/
+.box1{
+    margin: auto;
+    width: 60vw;
+    height: 1900px;
+    background-color: rgb(228, 190, 208);
+    
+}
+body {
+    background-image: url('blomster.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  h1{
+      text-align: center;
+      font-size: 5vw;
+    
+  }
