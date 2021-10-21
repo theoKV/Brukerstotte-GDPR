@@ -15,5 +15,11 @@ body {
   h1{
       text-align: center;
       font-size: 5vw;
-    
+  }
+  .knapp{
+      margin-left: 5vw;
+      width: 8vw;
+      height: 3vw;
+      background-color: blue;
+      border: none;
   }
