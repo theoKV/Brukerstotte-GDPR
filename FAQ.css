@@ -1,2 +1,41 @@
 /*CSS for FAQ.html*/
-
+.box1{
+    margin: auto;
+    width: 60vw;
+    height: 1900px;
+    background-color: rgb(228, 190, 208);
+    
+}
+body {
+    background-image: url('blomster.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  h1{
+      text-align: center;
+      font-size: 5vw;
+  }
+  .knapp{
+     
+      width: 8vw;
+      height: 3vw;
+      background-color: rgb(192, 195, 0);
+      border: none;
+  }
+  .knapp:hover{
+     
+    width: 8.2vw;
+    height: 3.1vw;
+    background-color: rgb(211, 214, 1);
+    border: none;
+}
+p{
+    margin-left: 5vw;
+}
+h2{
+    margin-left: 5vw;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 4vw;
+}
