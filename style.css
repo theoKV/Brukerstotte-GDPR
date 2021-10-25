@@ -17,9 +17,19 @@ body {
       font-size: 5vw;
   }
   .knapp{
-      margin-left: 5vw;
+     
       width: 8vw;
       height: 3vw;
-      background-color: blue;
+      background-color: rgb(192, 195, 0);
       border: none;
   }
+  .knapp:hover{
+     
+    width: 8.2vw;
+    height: 3.1vw;
+    background-color: rgb(211, 214, 1);
+    border: none;
+}
+p{
+    margin-left: 5vw;
+}
